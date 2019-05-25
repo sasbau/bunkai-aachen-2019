@@ -17,7 +17,7 @@ CLASS zsb_cl_testing IMPLEMENTATION.
     lv_msg = 'Hallo'.
     CALL FUNCTION 'TH_POPUP'
       EXPORTING
-        client  = '000'     " Client
+        client  = '222'     " Client
         user    = sy-uname    " User
         message = lv_msg.    " Message
   ENDMETHOD.
