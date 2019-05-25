@@ -18,6 +18,7 @@ DATA(lv_markdown1) = |# abapGit bunkai Aachen\n| &
  |* Create reports, classes etc. using [abap-markdown](https://github.com/koemaeda/abap-markdown)\n| &
  |* Create pull request\n| &
  |* We'll merge everything what's created during this event\n| &
+ |Hallo Welt\n| &
  |\n|.
 
 
